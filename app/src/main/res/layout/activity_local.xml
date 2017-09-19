@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.juanesteban.appparcial.LocalActivity">
+
+    <TextView
+        android:background="#dfd801"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvLocalitos"
+        android:text="Seleccione Equipo Local"
+        android:textColor="#FFF"
+        android:gravity="center"
+        android:textSize="30dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout"
+        android:layout_below="@+id/tvLocalitos"
+        android:layout_alignParentStart="true">
+        android:orientation="horizontal"
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnNacional"
+            android:drawableBottom="@drawable/mininacional" />
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnMedellin"
+            android:drawableBottom="@drawable/minidim" />
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnAguilas"
+            android:drawableBottom="@drawable/miniaguilas" />
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnCortulua"
+            android:drawableBottom="@drawable/minicortulua" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout2"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignParentStart="true">
+        android:orientation="horizontal"
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnAmerica"
+            android:drawableBottom="@drawable/miniamerica" />
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnBucaramanga"
+            android:drawableBottom="@drawable/minibucaros" />
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnMillonarios"
+            android:drawableBottom="@drawable/minimillos" />
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnCali"
+            android:drawableBottom="@drawable/minicali" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout3">
+        android:orientation="horizontal"
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnHuila"
+            android:drawableBottom="@drawable/minihuila" />
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnJaguares"
+            android:drawableBottom="@drawable/minijaguares" />
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnJunior"
+            android:drawableBottom="@drawable/minijunior" />
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnCaldas"
+            android:drawableBottom="@drawable/minicaldas" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout3"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout4">
+        android:orientation="horizontal"
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnTolima"
+            android:drawableBottom="@drawable/minitolima" />
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnPatriotas"
+            android:drawableBottom="@drawable/minipatriotas" />
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnPasto"
+            android:drawableBottom="@drawable/minipasto" />
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnEnvigado"
+            android:drawableBottom="@drawable/minienvigado" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout4"
+        android:layout_alignParentStart="true">
+        android:orientation="horizontal"
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnAlianza"
+            android:drawableBottom="@drawable/minialianza" />
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnSantafe"
+            android:drawableBottom="@drawable/minisantafe" />
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnEquidad"
+            android:drawableBottom="@drawable/miniequidad" />
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:id="@+id/btnTigres"
+            android:drawableBottom="@drawable/minitigres" />
+
+    </LinearLayout>
+
+</RelativeLayout>

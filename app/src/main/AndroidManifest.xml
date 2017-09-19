@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.juanesteban.appparcial">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LocalActivity" />
+        <activity android:name=".Equipos.MedellinActivity" />
+        <activity android:name=".Equipos.NacionalActivity" />
+        <activity android:name=".Equipos.CortuluaActivity" />
+        <activity android:name=".Equipos.AguilasActivity" />
+        <activity android:name=".Equipos.AmericaActivity" />
+        <activity android:name=".Equipos.BucaramangaActivity" />
+        <activity android:name=".Equipos.MillonariosActivity" />
+        <activity android:name=".Equipos.CaliActivity" />
+        <activity android:name=".Equipos.HuilaActivity" />
+        <activity android:name=".Equipos.JaguaresActivity" />
+        <activity android:name=".Equipos.JuniorActivity" />
+        <activity android:name=".Equipos.CaldasActivity" />
+        <activity android:name=".Equipos.TolimaActivity" />
+        <activity android:name=".Equipos.PatriotasActivity" />
+        <activity android:name=".Equipos.PastoActivity" />
+        <activity android:name=".Equipos.EnvigadoActivity" />
+        <activity android:name=".Equipos.AlianzaActivity" />
+        <activity android:name=".Equipos.SantafeActivity" />
+        <activity android:name=".Equipos.EquidadActivity" />
+        <activity android:name=".Equipos.TigresActivity"></activity>
+    </application>
+
+</manifest>
