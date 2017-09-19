@@ -26,8 +26,13 @@ import com.juanesteban.appparcial.Equipos.PatriotasActivity;
 import com.juanesteban.appparcial.Equipos.SantafeActivity;
 import com.juanesteban.appparcial.Equipos.TigresActivity;
 import com.juanesteban.appparcial.Equipos.TolimaActivity;
+import com.juanesteban.appparcial.Informacion.Datos;
+
+import java.util.ArrayList;
 
 public class LocalActivity extends AppCompatActivity {
+
+    public static ArrayList<Datos> datos =new ArrayList<>();
 
     Button btnNacional;
     Button btnMedellin;
