@@ -14,9 +14,6 @@ public class Datos {
     private String apuesta;
     private String apostador;
 
-
-
-
     public Datos(String nombre, String rival, String local, String fecha , String visita, String apuesta, String apostador) {
         this.nombre = nombre;
         this.rival = rival;

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHAD40\.android\build-cache\117433301935d1fa6ff5e2b0302e35cb7c43681e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0b9e5b0f2738efad08dfab6eca08cd9471a013c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHAD40\.android\build-cache\16d0da06d6c02c003bd873fa64170f5b2e248f41\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c9fc45994e753fab06a07c05a61d51211fc901d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e3a139ad240e5a9dca7ffc47bc5948687d2dc6b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8dccf16d4c98799230fc9852152949c7e6ef31f5">
+        <dex dex="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fb290b153377ee5d4b25e438b5faa0c7f972ab0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHAD40\.android\build-cache\ca4feaca20bdaf7ee02a113afd37502a629baa7f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39b76c81eac7fbcfa1c1f9e1eafcf5a5ced055cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHAD40\.android\build-cache\e4707b65bea8110df6ef5d7ecd17ec9f181c859f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d706ab3382d77019e05cc51d7dbafc8e2491084\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHAD40\.android\build-cache\5fe7a9ad493dbd061343b94f8e474dae2ee2d4ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9af4329bbc16ad1876ce202b7d1c243ad8eb7559\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHAD40\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_3d658e7d647de81aef941197eb8826aafdf14c65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHAD40\.android\build-cache\1ae6a52d7121587fce5aa47058c0fd994e86b2ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb42eebd97ba91b3f5384ad7e9f11d0b4cd1b6e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHAD40\.android\build-cache\74010ed1c86c4ac0b17cb8bdfc609563906dd477\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a930e062e6fc75e4e7db0bb255e8c6b0ea849c60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHAD40\.android\build-cache\9427187d5ce13182be619e7c6edb3fabe8397945\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_618ec5817a94d3c5cfb4f2949967a0cab8f3d0a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHAD40\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_a3f0116691324e4f0ce49d51c7b41bba1f8548ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHAD40\.android\build-cache\b530bb6a06028c3dfb2fb0319af8b51ef8aa901d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80d4634389d0ef4e68380c34e9b4c9c6cb2c2e82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHAD40\.android\build-cache\510862355866074a2304942c77581a0d4e965d80\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9ef15fb989b054f7d189fd9bb1908ae579a3f60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHAD40\.android\build-cache\d71d903bd4aa0e575735631571fc17b939b25c08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d46057b346afb4d89be60d20aac3feb451ae5b61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHAD40\.android\build-cache\38bd538e27d3c24cc8cc790c15d0026799f290b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5400eb66305a4a6d18d365640b0d59dfdbe2673\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHAD40\.android\build-cache\7548cd3d73cc573ce3bfba09e09fe2b685e9f8db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\SHAD40\AndroidStudioProjects\AppParcial\proyectoJuanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9827b79a0673125c882404a89cdf062e5ea24858\classes.dex" />
+    </item>
+
+</items>
